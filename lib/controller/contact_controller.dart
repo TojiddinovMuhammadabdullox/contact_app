@@ -1,6 +1,5 @@
 import 'package:contact_app/model/contact.dart';
 import 'package:contact_app/services/database_service.dart';
-import 'package:flutter/material.dart';
 
 class ContactController {
   final DBHelper dbHelper = DBHelper();
